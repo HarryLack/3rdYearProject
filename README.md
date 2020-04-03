@@ -1,5 +1,7 @@
 # 3rdYearProject
 
+This project is adapted from Unity FPS Microgame Tutorial: https://assetstore.unity.com/packages/templates/fps-microgame-156015
+
 Study Details:
 This study aims to evaluate the use of procedural generation of sound effects and involves playing the included game segment five times over, filling out a form after each time.
 No data is collected by the game application, only data entered and submitted via the provided form will be recorded.
