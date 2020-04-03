@@ -11,13 +11,13 @@ If you wish to withdraw mid participation you may safely exit the form without s
 If you wish to withdraw after you have completed and submitted your responses please contact the listed email address, stating that you wish to withdraw your participation and provide your memorable phrase so that your data may be identified to be removed.
 
 Particpation Instructions:
-1. Fully read through this file and open the form: https://forms.gle/gvr2yyNiwZWPqvzm6
+1. Fully read through this file and open the form: https://forms.gle/gvr2yyNiwZWPqvzm6.
 2. Ensure that you understand the purpose and nature of this study and how your data will be treated.
 3. Download and unzip the game
 4. Launch ProjectGame.exe
 5. Read the controls and click Play
 6. Pause the game by pressing Tab or P to bring up the menu 
-7. Move the SoundKey slider to the appropriate value
+7. Move the SoundKey slider to the appropriate value. One playthrough must be completed for each value and recorded in the form. 
 8. Shoot all the target enemies to fulfill the objective
 9. When the Test Complete screen appears, return to the form and fill out a section
 10. Return to the game and select Play Again.
