@@ -9,7 +9,7 @@ If you wish to withdraw mid participation you may safely exit the form without s
 If you wish to withdraw after you have completed and submitted your responses please contact the listed email address, stating that you wish to withdraw your participation and provide your memorable phrase so that your data may be identified to be removed.
 
 Particpation Instructions:
-1. Full read through this file and open the form: https://forms.gle/gvr2yyNiwZWPqvzm6
+1. Fully read through this file and open the form: https://forms.gle/gvr2yyNiwZWPqvzm6
 2. Ensure that you understand the purpose and nature of this study and how your data will be treated.
 3. Download and unzip the game
 4. Launch ProjectGame.exe
